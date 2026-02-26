@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+ENV/
+venv/
+
+# Firmware / Microcontrollers
+*.elf
+*.hex
+*.lss
+*.map
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CAD
+*.bak
+*.tmp
+*.autosave
+
+# Images (except those in images/)
+*.jpg
+*.jpeg
+*.png
+*.gif
+!images/*.jpg
+!images/*.jpeg
+!images/*.png
+!images/*.gif
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
