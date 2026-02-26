@@ -73,8 +73,3 @@ A modular autonomous agricultural robot designed as a helper around the farm. Th
 - Blog/content strategy in development
 
 ---
-
-## Conversations with Claude
-- Previous brainstorming sessions covered financing strategy, EU grants, content/consulting approach
-- Emphasis on building a working prototype first before seeking major funding
-- Open-source documentation philosophy
