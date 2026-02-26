@@ -9,7 +9,7 @@ Currently in development. No stable releases yet.
 If you find a security vulnerability in Garden-Crawler:
 
 1. Please do **NOT** create a public issue
-2. Email your findings to: (add email when available)
+2. Email your findings to: vukasin.bucur@gmail.com
 3. Include details about the vulnerability
 4. Allow time to fix before disclosing
 
