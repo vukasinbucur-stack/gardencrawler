@@ -139,7 +139,7 @@ See [LICENSE](LICENSE) for details.
 
 - **Blog:** [gardencrawler.substack.com](https://gardencrawler.substack.com)
 - **GitHub Issues:** [Use issues](../../issues) for bugs/questions
-- **Email:** crawlergarden@gmail.com
+- **Email:** vukasin.bucur@gmail.com
 
 ---
 
