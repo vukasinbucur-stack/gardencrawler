@@ -31,7 +31,7 @@ Garden-Crawler is a 4x4 autonomous weeding robot designed for small-scale vegeta
 
 | Component | Specification |
 |-----------|---------------|
-| **Chassis** | 4x4 portal rocker-bogie, 2020 aluminum |
+| **Chassis** | Fixed frame 4WD, 2020 aluminum |
 | **Motors** | 4x JGB37-520 planetary with encoders |
 | **Driver** | VNH5019 dual H-bridge |
 | **Brain** | Raspberry Pi 5 |
@@ -92,16 +92,6 @@ Areas for contribution:
 ## Sponsor
 
 If this project helps you, consider **[sponsoring on GitHub](https://github.com/sponsors/vukasinbucur-stack)**.
-
-All funds go directly to:
-- Parts and materials
-- Testing equipment
-- Farm time for field validation
-
-**Sponsor tiers:**
-- €3/month — Early access to updates
-- €10/month — Your name on the robot
-- €25/month — Monthly consulting call
 
 ---
 

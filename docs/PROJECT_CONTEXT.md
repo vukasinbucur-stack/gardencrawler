@@ -65,7 +65,6 @@ A modular autonomous agricultural robot designed as a helper around the farm. Th
 - **Name:** vook
 - **Location:** Timis County, Western Romania
 - **Profession:** Agronomist
-- **Funding Strategy:** Blog content + consulting → EU grants (EAFRD, Horizon Europe)
 - **Open Source Philosophy:** Making agri-tech accessible for small farms
 
 ---
